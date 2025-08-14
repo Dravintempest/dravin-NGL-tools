@@ -4,7 +4,7 @@
   "description": "NGL Spam Tools - For Educational Purposes Only",
   "main": "ngl_spam.js",
   "scripts": {
-    "start": "node ngl_spam.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "chalk": "^5.3.0",
