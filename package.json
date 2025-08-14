@@ -1,0 +1,17 @@
+{
+  "name": "dravin-ngl-spam-tools",
+  "version": "1.0.0",
+  "description": "NGL Spam Tools - For Educational Purposes Only",
+  "main": "ngl_spam.js",
+  "scripts": {
+    "start": "node ngl_spam.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.1",
+    "node-fetch": "^2.7.0"
+  },
+  "author": "Dravin",
+  "license": "MIT"
+}
